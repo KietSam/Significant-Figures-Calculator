@@ -1,0 +1,36 @@
+Example #1: 
+w/o sigfigs: 32.01 + 5.325 + 12 = 49.335
+w/ sigfigs: 32.01 + 5.325 + 12 = 49
+
+Example #2:
+w/o sigfigs: 53.987 - 53.110 = 0.877
+w/ sigfigs: 53.987 - 53.110 = 0.877
+
+Example #3:
+w/o sigfigs: 7.799 - 6.25 = 1.549
+w/ sigfigs: 7.799 - 6.25 = 1.55
+
+2.02 + 2. + 4.13 + 1.
+
+9.15
+
+9
+
+
+10000 4
+1000 3
+100 2
+10 1
+1 0
+0.1 -1
+0.01 -2
+0.001 -3
+0.0001 -4
+
+if (adding numbers){
+
+   1. Find out the place where we should round (Make new method, this method will return an integer)
+   2. Add everything up (Use the calculate())
+   3. Round in the end
+
+}
